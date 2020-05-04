@@ -1,3 +1,6 @@
+# fat-project-online
+Fat Project Online is web based card game.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
